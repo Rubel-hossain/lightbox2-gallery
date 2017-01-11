@@ -1,0 +1,16 @@
+* {
+  margin:0;
+  padding:0;
+}
+.lightbox-index  {
+  margin-left:50px;
+}
+.lightbox-index ul {
+  list-style:none;
+}
+.lightbox-index ul li {
+  display:inline;
+}
+.lightbox-index img {
+  width:90px;
+}
